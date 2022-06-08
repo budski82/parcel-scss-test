@@ -1,10 +1,8 @@
-.container {
-    & h1 {
+.container  h1 {
         font: 1.4rem 'Verdana',sans-serif;
         color: green;
     }
-     & _text {
+._text {
          font: 1.4rem 'Verdana',sans-serif;
          color: red;
     }
-}
