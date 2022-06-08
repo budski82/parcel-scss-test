@@ -1,0 +1,9 @@
+.container {
+    & h1 {
+        font: 1.4rem 'Verdana',sans-serif;
+        color: green;
+    }
+    & text {
+     color: red;
+    }
+}
